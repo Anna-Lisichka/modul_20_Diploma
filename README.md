@@ -72,4 +72,5 @@
    plt.title('Столбчатая диаграмма с Matplotlib')
    plt.show()
 
+---
 ### 1. Matplotlib
